@@ -2,7 +2,7 @@
 //
 // A chrome extension utility to scrape the play store reviews.
 // Don't judge. This is a simple utility; and there is no guarantee that
-// the structure of the reviews will remain intact forever so I 
+// the structure of the reviews will remain intact for long. In fact, I 
 // anticipate that this will change somewhat frequently.
 //
 // As of right now, a PlayStoreReview object looks like ---
@@ -16,7 +16,7 @@
 //    text: ''
 // }
 // 
-// I know, i know. They're all strings.
+// I know, I know. They're all strings.
 
 //
 // PlayStoreReview - the object that contains all the necessary info
