@@ -9,6 +9,6 @@ To install
 * Navigate to chrome://extensions
 * Check 'Developer mode' if unchecked
 * Load unpacked extension...
-* Navigate to 
+* Select the cloned play-store-reviews-chromeextension repo
 
 License: MIT
